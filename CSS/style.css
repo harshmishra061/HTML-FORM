@@ -1,0 +1,30 @@
+body {
+  background-color: #00C4FF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.maindiv {
+  width: 500px;
+  height: 300px;
+}
+form {
+  background-color: #F7E1AE;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+}
+h1 {
+  padding: 5px;
+  background-color: #FFF8D6;
+  margin-bottom: 0;
+  text-align: center;
+}
+button {
+  width: 100px;
+  height: 25px;
+  background-color: #D4ADFC;
+}
